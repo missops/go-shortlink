@@ -1,7 +1,9 @@
 # go-shortlink
 
+### clone 本项目
+```
 git clone https://github.com/hiningmeng/go-shortlink.git  shortlink
-
+```
 
 -  创建短链接口： http://127.0.0.1:8000/api/shorten 
 ```
